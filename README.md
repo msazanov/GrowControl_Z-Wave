@@ -2,6 +2,8 @@
 
 A greenhouse automation controller project designed for growing agricultural crops. The controller is based on the Z-Uno 2 platform and supports various sensors and devices for monitoring and controlling the microclimate of the greenhouse.
 
+![Front View of the Greenhouse Controller](photo_2022-10-03_01-31-30.jpg)
+
 ## Description
 
 This project implements the following features:
@@ -21,6 +23,8 @@ This project implements the following features:
 - **Operation with an encoder** for managing settings directly on the controller
 
 - **Support for Z-Wave protocol** for integration with smart home systems
+
+![Back View of the Greenhouse Controller](photo_2022-10-03_01-31-51.jpg)
 
 ## Installation
 
